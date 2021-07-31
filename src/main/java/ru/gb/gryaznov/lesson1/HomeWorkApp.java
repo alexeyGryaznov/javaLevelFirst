@@ -6,6 +6,7 @@ printThreeWords();
 checkSummSign();
 printColor();
 compareNumbers();
+System.out.println("комментарий для pull requests");
     }
     public static void printThreeWords(){
         System.out.println("Orange");
