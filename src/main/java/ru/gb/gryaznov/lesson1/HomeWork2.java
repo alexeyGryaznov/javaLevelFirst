@@ -22,7 +22,7 @@ public class HomeWork2 {
         }else {
             System.out.println(year + "- не високосный");
         }
-// строка для pullrequest
+
     }
 public static boolean checkSumm(int a,int b){
     boolean result;
