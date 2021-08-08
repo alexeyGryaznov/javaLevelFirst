@@ -27,7 +27,7 @@ public class HomeWork3 {
         int arrShift[] = {1, 2, 3, 4, 5, 6};
         int shift=-2;// положительное число-сдвиг влево
         arrShift(shift, arrShift);
-
+//PULLrequest
 
     }
  public static int[] changeArgs(int[] arrStart){
